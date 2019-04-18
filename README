@@ -1,0 +1,8 @@
+*	Creez o matrice de ordinul n, initializata cu zero.
+	
+*	Parcurgerea (crearea) matricei se face utilizand diagonalele secundare
+din matricele de ordin 2, 3, ..., sensul parcurgerii (sus->jos sau jos->sus)
+depinzand de paritatea dimensiunii matricei.
+
+* Se completeaza mai intai partea superioara, apoi partea inferioara.
+
